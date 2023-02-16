@@ -21,6 +21,6 @@ public class Lab {
      * Check out this guide on throwing exceptions: https://rollbar.com/guides/java/how-to-throw-exceptions-in-java/#
      */
     public void mustThrow() throws IllegalArgumentException{
-        throw new IllegalArgumentException("exception thrown");
+        throw new IllegalArgumentException("exception!");
     }
 }
